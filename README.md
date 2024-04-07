@@ -1,5 +1,5 @@
 # eggcatcher
-Title: Egg Catcher Game
+#Title: Egg Catcher Game
 
 Description:
 The Egg Catcher game is a simple arcade-style game where the player controls a catcher at the bottom of the screen and tries to catch falling eggs before they hit the ground. The player earns points for each egg caught and loses a life for each egg that reaches the bottom without being caught. The game ends when the player runs out of lives.
